@@ -10,4 +10,5 @@ adicionalmente "picaremos" unis botones acá en gibhub para la magia suceda
 
 paso 1: crear archivo "_quarto.yml"
 paso 2: crear archivo "index.qmd"
-paso 3: picar botones aquí en github. Setting->Pages->Github Actiones->
+paso 3: picar botones aquí en github. Setting->Pages->*Github Actiones*
+paso 4: Crear el archvio de configuración de la acción de github que construirá y desplegará nuestro sitio. Este archivo debe estar dentro de carpetas con nombres muy específicos

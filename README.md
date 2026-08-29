@@ -8,4 +8,5 @@ Para esta versión muy básica sólo necesitamos crear 3 arcvhivos:
 
 adicionalmente "picaremos" unis botones acá en gibhub para la magia suceda 
 
-paso: crear archivo "_quarto.yml"
+paso 1: crear archivo "_quarto.yml"
+paso 2: crear archivo "index.qmd"
